@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="15" failures="0" time="0.782">
+  <testsuite name="Get Shopping Cart" errors="0" failures="0" skipped="0" timestamp="2020-05-29T19:31:26" time="0.365" tests="15">
+    <testcase classname="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 1" name="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 1" time="0.003">
+    </testcase>
+    <testcase classname="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 2" name="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 2" time="0.001">
+    </testcase>
+    <testcase classname="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 3" name="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 3" time="0">
+    </testcase>
+    <testcase classname="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 4" name="Get Shopping Cart Deve retornar um carrinho de compras a partir do array de IDs do exemplo 4" time="0.001">
+    </testcase>
+    <testcase classname="getProductsById Deve retornar os produtos de id: 110 e 120" name="getProductsById Deve retornar os produtos de id: 110 e 120" time="0">
+    </testcase>
+    <testcase classname="getProductsById Deve retornar somente o produto de id 110" name="getProductsById Deve retornar somente o produto de id 110" time="0.001">
+    </testcase>
+    <testcase classname="getPromotion retorna a promoção FULL LOOK" name="getPromotion retorna a promoção FULL LOOK" time="0">
+    </testcase>
+    <testcase classname="getPromotion retorna a promoção SINGLE LOOK" name="getPromotion retorna a promoção SINGLE LOOK" time="0">
+    </testcase>
+    <testcase classname="getPromotion retorna a promoção DOUBLE LOOK" name="getPromotion retorna a promoção DOUBLE LOOK" time="0">
+    </testcase>
+    <testcase classname="getPromotion retorna a promoção TRIPLE LOOK" name="getPromotion retorna a promoção TRIPLE LOOK" time="0.001">
+    </testcase>
+    <testcase classname="getProductsOnSale Aplicando promoção FULL LOOK nos produtos de ids: 110, 210" name="getProductsOnSale Aplicando promoção FULL LOOK nos produtos de ids: 110, 210" time="0">
+    </testcase>
+    <testcase classname="getProductsOnSale Aplicando promoção SINGLE LOOK nos produtos de ids: 140, 170" name="getProductsOnSale Aplicando promoção SINGLE LOOK nos produtos de ids: 140, 170" time="0.001">
+    </testcase>
+    <testcase classname="getTotalPriceWithoutDiscount Testando com os produtos de id: 140 e 170" name="getTotalPriceWithoutDiscount Testando com os produtos de id: 140 e 170" time="0">
+    </testcase>
+    <testcase classname="extractPromotionPrices retorna [129.99, 39.99] na promoção FULL LOOK dos produtos de id: 140 e 170" name="extractPromotionPrices retorna [129.99, 39.99] na promoção FULL LOOK dos produtos de id: 140 e 170" time="0">
+    </testcase>
+    <testcase classname="extractPromotionPrices retorna [] na promoção SINGLE LOOK dos produtos de id: 140 e 170" name="extractPromotionPrices retorna [] na promoção SINGLE LOOK dos produtos de id: 140 e 170" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
