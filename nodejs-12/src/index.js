@@ -50,7 +50,7 @@ function extractPromotionPrices(products) {
 
 			return price
 		} else {
-			return product.regularPrice // GAMBIARRA
+			return product.regularPrice
 		}
 	})
 
