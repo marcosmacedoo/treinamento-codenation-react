@@ -1,4 +1,4 @@
-# Curso Codenation React
+# Curso Codenation React ⚛️
 
 Este repositório abriga os desafios do curso de React oferecido pela Codenation
 
